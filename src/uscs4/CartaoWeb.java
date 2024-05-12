@@ -9,6 +9,4 @@ public abstract class CartaoWeb {
     }
 
     public abstract void showMessage();
-
-
 }
