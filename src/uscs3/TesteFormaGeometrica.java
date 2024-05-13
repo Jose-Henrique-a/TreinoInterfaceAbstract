@@ -16,6 +16,5 @@ public class TesteFormaGeometrica {
        AreaCalculavel q1 = new Quadrado(3);
        System.out.println("Area do retangulo = "+q1.calculaArea());
         System.out.println("Comprimneto do retangulo = "+ q1.calculaComprimento());
-
     }
 }

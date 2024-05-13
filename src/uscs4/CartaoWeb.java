@@ -7,6 +7,6 @@ public abstract class CartaoWeb {
     public CartaoWeb(String destinatario){
         this.destinatario = destinatario ;
     }
-
     public abstract void showMessage();
+    
 }
