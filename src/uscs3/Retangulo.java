@@ -16,5 +16,4 @@ public class Retangulo implements AreaCalculavel{
     public double calculaComprimento(){
         return 2* (base + altura);
     }
-
 }
