@@ -9,5 +9,4 @@ public class DiaDosNamorados extends CartaoWeb{
     public void showMessage(){
         System.out.println("Feliz dia no namoro senhor(a): " + destinatario);
     }
-     
 }
