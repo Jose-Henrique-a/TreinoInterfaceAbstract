@@ -1,5 +1,4 @@
 package uscs3;
-
 public class Retangulo implements AreaCalculavel{
     private double base;
     private double altura;
